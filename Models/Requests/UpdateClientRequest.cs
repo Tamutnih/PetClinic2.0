@@ -8,7 +8,7 @@
         /// <summary>
         /// ID Клиента в БД
         /// </summary>
-        public int ClientId { get; set; } 
+        public int ClientId { get; set; }
 
         /// <summary>
         /// Документ клиента
