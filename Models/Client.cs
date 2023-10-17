@@ -3,7 +3,7 @@
     /// <summary>
     /// Класс описания клиента
     /// </summary>
-    public class Client 
+    public class Client
     {
         /// <summary>
         /// ID клиента в БД
