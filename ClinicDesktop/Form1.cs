@@ -7,7 +7,6 @@ namespace ClinicDesctop
         public Form1()
         {
             InitializeComponent();
-
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
