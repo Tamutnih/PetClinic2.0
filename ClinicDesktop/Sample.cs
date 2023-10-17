@@ -8,6 +8,6 @@ namespace ClinicDesctop
 {
     public partial class Sample
     {
-        public int b; 
+        public int b;
     }
 }
