@@ -19,7 +19,7 @@
         /// Кличка животного
         /// </summary>
         public string Name { get; set; }
-
+        
         /// <summary>
         /// Дата рождения животного
         /// </summary>
